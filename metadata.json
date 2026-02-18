@@ -1,0 +1,5 @@
+{
+  "name": "Hidden Rectangle Hunter",
+  "description": "A strategic puzzle game where players find a hidden rectangular formation of winning cells on a 10x10 grid.",
+  "requestFramePermissions": []
+}
