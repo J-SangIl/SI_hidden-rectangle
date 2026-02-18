@@ -1,8 +1,7 @@
-
 import React, { useState, useCallback, useMemo } from 'react';
-import { GamePhase } from './types';
-import { generateWinningIndices } from './utils/gameLogic';
-import GridCell from './components/GridCell';
+import { GamePhase } from './types.ts';
+import { generateWinningIndices } from './utils/gameLogic.ts';
+import GridCell from './components/GridCell.tsx';
 
 const GRID_SIZE = 10;
 
