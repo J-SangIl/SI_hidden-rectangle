@@ -143,11 +143,11 @@ const App: React.FC = () => {
 
             <div className="mt-8 grid grid-cols-2 gap-4">
               <div className="p-4 bg-slate-50 rounded-xl border border-slate-100 flex items-center space-x-3">
-                <div className="w-3 h-3 rounded-full bg-slate-900" />
+                <div className="w-3 h-3 rounded-full bg-green-500" />
                 <span className="text-sm font-medium text-slate-600">당첨 칸</span>
               </div>
               <div className="p-4 bg-slate-50 rounded-xl border border-slate-100 flex items-center space-x-3">
-                <div className="w-3 h-3 rounded-full border-2 border-slate-300" />
+                <div className="w-3 h-3 rounded-full bg-red-500" />
                 <span className="text-sm font-medium text-slate-600">꽝 (빈 칸)</span>
               </div>
             </div>
