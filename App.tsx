@@ -62,7 +62,6 @@ const App: React.FC = () => {
         <h1 className="text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
           숨은 직사각형 찾기
         </h1>
-        <p className="mt-2 text-lg text-slate-600">숨겨진 직사각형 모양의 당첨 칸을 모두 찾아보세요</p>
       </header>
 
       <main className="w-full max-w-2xl bg-white rounded-2xl shadow-xl shadow-slate-200/50 p-6 md:p-10">
@@ -156,7 +155,7 @@ const App: React.FC = () => {
       </main>
 
       <footer className="mt-auto pt-12 pb-6 text-center text-slate-400 text-sm font-medium">
-        &copy; {new Date().getFullYear()} 숨은 직사각형 찾기 Pro. 행운을 빕니다!
+        &copy; 2026 석관중학교 JSI
       </footer>
     </div>
   );
