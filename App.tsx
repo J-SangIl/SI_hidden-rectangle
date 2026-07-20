@@ -154,9 +154,6 @@ const App: React.FC = () => {
         )}
       </main>
 
-      <footer className="mt-auto pt-12 pb-6 text-center text-slate-400 text-sm font-medium">
-        &copy; 2026 석관중학교 JSI
-      </footer>
     </div>
   );
 };
